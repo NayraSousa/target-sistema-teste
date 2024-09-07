@@ -1,14 +1,14 @@
 public class Sum {
 
     public static void main(String[] args){
-        int indice = 12;
-        int soma = 0;
+        int index = 12;
+        int sum = 0;
         int k = 1;
 
-        while(k<indice){
+        while(k<index){
             k = k + 1;
-            soma = soma + k;
+            sum = sum + k;
         }
-        System.out.println(soma);
+        System.out.println(sum);
     }
 }
