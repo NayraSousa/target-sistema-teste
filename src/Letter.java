@@ -17,10 +17,10 @@ public class Letter {
 
     public static void main(String[] args){
 
-        String word = "camaleão";
+        String word = "target sistema teste";
         int count = letter(word);
 
-        System.out.println("A palavra " + word + " tem " + count + " letras a/A");
+        System.out.println("The word " + word + " has " + count + " letters a/A");
 
     }
 }
